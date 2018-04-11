@@ -35,20 +35,20 @@ MNM.70330.d;那悖时砍脑壳的[my_liege.GetLordSpiritualName], [my_liege.job_
 MNM.70330.a;我自由了!;;;;;;;;;;X
 MNM.70400.d.executed;糟糕! 你在[Root.Society.GetName]的同行, [From.GetBestName], 让[my_liege.GetLordSpiritualName] [my_liege.job_spiritual.GetFullName]跟[my_liege.job_spiritual.GetHerHis] [my_liege.job_spiritual.GetReligionWarriorPlural]给逮住了! 他们眼也不眨就把[From.GetHerHim]搁火上烧了...;;;;;;;;;;X
 MNM.70400.d.imprisoned;糟糕! 你在[Root.Society.GetName]的同行, [From.GetBestName], 让[my_liege.GetLordSpiritualName] [my_liege.job_spiritual.GetFullName]跟[my_liege.job_spiritual.GetHerHis] [my_liege.job_spiritual.GetReligionWarriorPlural]给逮住了! [From.GetSheHeCap]怕是要烂在[my_liege.GetTitle] [my_liege.GetFirstName]的牢里...;;;;;;;;;;X
-MNM.70400.d.caught;糟糕! 你在[Root.Society.GetName]的同行, [From.GetBestName], 让[my_liege.GetLordSpiritualName] [my_liege.job_spiritual.GetFullName]跟[my_liege.job_spiritual.GetHerHis] [my_liege.job_spiritual.GetReligionWarriorPlural]给逮住了! They used hot irons to brand [From.GetFirstName] an apostate, fortunately they spared [From.GetHerHis] life...;;;;;;;;;;X
-MNM.70400.a;It is a sign for me to lay low...;;;;;;;;;;X
-alert_close_gates_name;Close the Gates;;;;;;;;;;X
-alert_open_gates_name;Open the Gates;;;;;;;;;;X
-EVTOPTA_TOG_621_Aztec_Religious_Head;Your vile pantheon of gods have no power here, [From.GetBestName]!;;;;;;;;;;X
-String_Muslim;Muslim;;;;;;;;;;X
-monastic_order_convert_county;Convert County;;;;;;;;;;X
-monastic_order_convert_county_desc;Send emissaries from [From.Society.GetName] to the local population in order to convert them to the [From.Religion.GetName] faith.;;;;;;;;;;X
-monastic_order_convert_county_power_desc;Enables §Gright-clicking§! the title shield of a county to convert the local population to your religion.;;;;;;;;;;X
-EVTDESC_MNM_4990;A majority of the population in [From.GetName] has embraced the [Root.Religion.GetName] faith.;;;;;;;;;;X
-EVTDESC_MNM_4991;A courier is brought before me with a message, telling me that [FromFrom.GetTitledFirstName] has sent emissaries to [From.GetName] who have successfully managed to persuade the populace to embrace the [FromFrom.Religion.GetName] faith.;;;;;;;;;;X
-TRIGGER_ARTIFACT_OWNER;Artifact Owner;;;;;;;;;;X
-TRIGGER_ARTIFACT_ORIGINAL_OWNER;Artifact Original Owner;;;;;;;;;;X
-INHERITANCE_LOST_ARTIFACTS_LOG;During the transfer of power, $CHARACTER$ lost their $ARTIFACT$.;;;;;;;;;;X
+MNM.70400.d.caught;糟糕! 你在[Root.Society.GetName]的同行, [From.GetBestName], 让[my_liege.GetLordSpiritualName] [my_liege.job_spiritual.GetFullName]跟[my_liege.job_spiritual.GetHerHis] [my_liege.job_spiritual.GetReligionWarriorPlural]给逮住了! 他们拿烙铁给[From.GetFirstName]烙了记号, 好在他们没要[From.GetHerHis]命...;;;;;;;;;;X
+MNM.70400.a;我得夹起尾巴来了...;;;;;;;;;;X
+alert_close_gates_name;关闭大门;;;;;;;;;;X
+alert_open_gates_name;开启大门;;;;;;;;;;X
+EVTOPTA_TOG_621_Aztec_Religious_Head;你那些下贱的神灵在这儿可一点神力也没有, [From.GetBestName]!;;;;;;;;;;X
+String_Muslim;穆斯林;;;;;;;;;;X
+monastic_order_convert_county;转化省份;;;;;;;;;;X
+monastic_order_convert_county_desc;从[From.Society.GetName]送去使者，到当地人之中，以期将他们转化为[From.Religion.GetName]信仰.;;;;;;;;;;X
+monastic_order_convert_county_power_desc;允许 §G右键点击§! 一个伯爵领的头衔盾徽来将当地人口转化为你的宗教.;;;;;;;;;;X
+EVTDESC_MNM_4990;在[From.GetName]的大部分人口已经皈依了[Root.Religion.GetName]信仰.;;;;;;;;;;X
+EVTDESC_MNM_4991;一名信使被带来我面前, 他告诉我 [FromFrom.GetTitledFirstName] 已经派出使者来到 [From.GetName]并成功说服了民众皈依 [FromFrom.Religion.GetName] 信仰.;;;;;;;;;;X
+TRIGGER_ARTIFACT_OWNER;宝物持有者;;;;;;;;;;X
+TRIGGER_ARTIFACT_ORIGINAL_OWNER;宝物最初的持有者;;;;;;;;;;X
+INHERITANCE_LOST_ARTIFACTS_LOG;在权力移交的过程中, $CHARACTER$ 失去了他们的 $ARTIFACT$.;;;;;;;;;;X
 ask_wards_liege_to_allow_culture_religion_swap_desc;ÖÂÐÅ§Y[Root.Liege.GetTitledFirstName]§!ÇëÇóÔÊÐí¸Ä±ä§Y[Root.GetFirstName]§!ÑøÓýµÄÖØÐÄ¡£×¨×¢ÓÚÄãµÄ´«³Ð½«Ê¹§Y[Root.GetFirstName]§!½ÓÊÜÄãµÄ×Ú½ÌºÍÎÄ»¯¡£;;;;;;;;;;X
 change_wards_focus_to_heritage_desc;×ªÒÆµ½§Y[Root.GetFirstName]§!µÄ½ÌÓýÖØÐÄ¡£×¨×¢ÓÚ¼Ì³Ð»áÊ¹§Y[Root.GetFirstName]§!½ÓÊÜÄãµÄÎÄ»¯ºÍ×Ú½ÌÐÅÑö¡£;;;;;;;;;;X
 EVTDESC_ZE_2131;Ç×°®µÄ[Root.GetTitledNameWithNick]£¬\n\nÎÒºÜ»¶Ó­ÄãÒÔ×Ô¼ºµÄ´«Í³À´½ÌÓý[FromFrom.GetFirstName]¡£;;;;;;;;;;X

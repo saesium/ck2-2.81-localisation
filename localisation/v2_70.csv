@@ -1,41 +1,41 @@
-nick_the_inquisitor;the Inquisitor;;;;;;;;;;X
-nick_the_purifier;the Purifier;;;;;;;;;;X
-String_man_at_arm;man at arm;;;;;;;;;;X
-String_spahi;spahi;;;;;;;;;;X
-MNM.6668.d;You have not exactly been discreet as of late - frequent and often times blatant use of [Root.Society.GetName]'s powers without any concern for secrecy has caused the [Root.Religion.GetPriestTitle]s to openly accuse you of apostasy!;;;;;;;;;;X
-opinion_accused_apostate;Accused of Apostasy;;;;;;;;;;X
-accused_apostate;Branded Apostate;;;;;;;;;;X
-accused_apostate_desc;This character has been accused of apostasy, whether or not the claim has any truth to it is another matter entirely...;;;;;;;;;;X
-accuse_rival_tooltip;Take this opportunity to get back at your rival and accuse [rival_target.GetHerHim] of apostasy. �Y[rival_target.GetBestName]�! might not be guilty - but your liege will be none the wiser either way...;;;;;;;;;;X
-apostate_found_tooltip;You bring �Y[accused_apostate.GetBestName]�! to the court of �Y[Root.Liege.GetTitle] [Root.Liege.GetFirstName]�!, [Root.Liege.GetSheHe] will decide the fate of the apostate!;;;;;;;;;;X
-MNM.70110.d.highly_suspected_society_member;After taking statement from multiple witnessess and closely examining [accused_apostate.GetHerHis] every move, you have gathered enough damning evidence to accuse [accused_apostate.GetBestName] of apostasy - [accused_apostate.GetSheHe] has obviously sworn allegiance to [accused_apostate.Society.GetName]! Your [Root.GetReligionWarriorPlural] are poised and ready to bring [accused_apostate.GetHerHim] to you in chains.;;;;;;;;;;X
-MNM.70110.d.suspected_society_member;After taking statement from multiple witnessess and closely examining [accused_apostate.GetHerHis] every move, you have managed to gather just enough evidence to accuse [accused_apostate.GetBestName] of apostasy - [accused_apostate.GetSheHe] has been consorting with [accused_apostate.Society.GetName]! Your [Root.GetReligionWarriorPlural] are poised and ready to bring [accused_apostate.GetHerHim] to you in chains.;;;;;;;;;;X
-MNM.70110.d.suspected_apostate;While spying on [accused_apostate.GetBestName] you have found numerous heretical trinkets and books. All together you now have enough damning evidence to accuse [accused_apostate.GetHerHim] of apostasy - [accused_apostate.GetSheHeCap] claims to be a devout [accused_apostate.Religion.GetName], but [accused_apostate.GetSheHe] is obviously lying - [accused_apostate.GetSheHe] practices [accused_apostate.GetTrueReligionAdherent] in secrecy! Your [Root.GetReligionWarriorPlural] are poised and ready to bring [accused_apostate.GetHerHim] to you in chains.;;;;;;;;;;X
-MNM.70110.d.no_suspicion;After taking statement from a few child witnessess and concerned peasants, you have gathered some evidence pointing towards [accused_apostate.GetBestName] being an apostate - you have a good feeling that [accused_apostate.GetFirstName]'s soul has been tainted by [Root.Religion.GetRandomEvilGodName]! Your [Root.GetReligionWarriorPlural] are poised and ready to bring [accused_apostate.GetHerHim] to you in chains.;;;;;;;;;;X
-MNM.70110.d.innocent_victim;After taking statement from a few child witnessess and concerned peasants, you have gathered some evidence pointing towards [accused_apostate.GetBestName] being an apostate - you have a good feeling about [accused_apostate.GetFirstName]'s soul being tainted by [Root.Religion.GetRandomEvilGodName]! Your [Root.GetReligionWarriorPlural] are poised and ready to bring [accused_apostate.GetHerHim] to you in chains.;;;;;;;;;;X
-MNM.70110.a;Seize [accused_apostate.GetHerHim]! [accused_apostate.GetSheHeCap] will face [Root.Liege.GetTitle] [Root.Liege.GetFirstName]'s justice.;;;;;;;;;;X
-MNM.70110.b;I know who I would rather accuse...;;;;;;;;;;X
-MNM.70200.d.highly_suspected_society_member;[Root.GetLordSpiritualName] [Root.job_spiritual.GetFirstName] bursts into your [Root.GetChamber], flanked by several [Root.GetReligionWarriorPlural] dragging [accused_apostate.GetBestName] with them in chains. "My [Root.GetTitle], this [accused_apostate.GetManWoman] has been openly proclaiming [accused_apostate.GetHerHis] allegiance to [accused_apostate.Society.GetName]! What shall be done with [accused_apostate.GetHerHim]?";;;;;;;;;;X
-MNM.70200.d.suspected_society_member;[Root.GetLordSpiritualName] [Root.job_spiritual.GetFirstName] bursts into your [Root.GetChamber], flanked by several [Root.GetReligionWarriorPlural] dragging [accused_apostate.GetBestName] with them in chains. "My [Root.GetTitle], I have procured irrefutable evidence that this [accused_apostate.GetManWoman] consorts with [accused_apostate.Society.GetName]! What shall be done with [accused_apostate.GetHerHim]?";;;;;;;;;;X
-MNM.70200.d.suspected_apostate;[Root.GetLordSpiritualName] [Root.job_spiritual.GetFirstName] bursts into your [Root.GetChamber], flanked by several [Root.GetReligionWarriorPlural] dragging [accused_apostate.GetBestName] with them in chains. "My [Root.GetTitle], we caught this apostate in the act of reading the [accused_apostate.TrueReligion.GetName] [accused_apostate.GetTrueReligionScriptureName], and giving praise to [accused_apostate.TrueReligion.GetHighGodName]! What shall be done with [accused_apostate.GetHerHim]?";;;;;;;;;;X
-MNM.70200.d.no_suspicion;[Root.GetLordSpiritualName] [Root.job_spiritual.GetFirstName] bursts into your [Root.GetChamber], flanked by several [Root.GetReligionWarriorPlural] dragging [accused_apostate.GetBestName] with them in chains. "My [Root.GetTitle], there are many concerned peasants claiming that their children are plagued by nightmares of this [accused_apostate.GetManWoman] - [accused_apostate.GetSheHe] is obviously a [accused_apostate.GetWarlockWitch]! What shall be done with [accused_apostate.GetHerHim]?";;;;;;;;;;X
-MNM.70200.d.innocent_victim;[Root.GetLordSpiritualName] [Root.job_spiritual.GetFirstName] bursts into your [Root.GetChamber], flanked by several [Root.GetReligionWarriorPlural] dragging [accused_apostate.GetBestName] with them in chains. "My [Root.GetTitle], there are many concerned peasants claiming that their children are plagued by nightmares of this [accused_apostate.GetManWoman] - [accused_apostate.GetSheHe] is obviously a [accused_apostate.GetWarlockWitch]! What shall be done with [accused_apostate.GetHerHim]?";;;;;;;;;;X
-MNM.70200.a;Burn the apostate!;;;;;;;;;;X
-MNM.70200.b;Throw the apostate in the dungeon.;;;;;;;;;;X
-MNM.70200.c;Bring out the branding iron!;;;;;;;;;;X
-MNM.70200.d;Let [accused_apostate.GetHerHim] go free, what harm could it do?;;;;;;;;;;X
-MNM.70300.d;Curse that damned [my_liege.GetLordSpiritualName], [my_liege.job_spiritual.GetFullName]! [my_liege.job_spiritual.GetSheHeCap] and [my_liege.job_spiritual.GetHerHis] posse of [my_liege.job_spiritual.GetReligionWarriorPlural] stormed into my [Root.GetChamber] and cast me in chains, accusing me of apostasy. Now [my_liege.GetBestName] has decided that I should be burned alive!;;;;;;;;;;X
-MNM.70300.a;[accused_apostate.GetDWDevil], avenge me!;;;;;;;;;;X
-MNM.70300.b;[Root.Religion.GetHighGodName], save my soul!;;;;;;;;;;X
-MNM.70310.d;Curse that damned [my_liege.GetLordSpiritualName], [my_liege.job_spiritual.GetFullName]! [my_liege.job_spiritual.GetSheHeCap] and [my_liege.job_spiritual.GetHerHis] posse of [my_liege.job_spiritual.GetReligionWarriorPlural] stormed into my [Root.GetChamber] and cast me in chains, accusing me of apostasy. Now [my_liege.GetBestName] has decided that I am to rot away in [my_liege.GetHerHis] dungeon!;;;;;;;;;;X
-MNM.70310.a;I will be free, and then you will all pay!;;;;;;;;;;X
-MNM.70320.d;Curse that damned [my_liege.GetLordSpiritualName], [my_liege.job_spiritual.GetFullName]! [my_liege.job_spiritual.GetSheHeCap] and [my_liege.job_spiritual.GetHerHis] posse of [my_liege.job_spiritual.GetReligionWarriorPlural] stormed into my [Root.GetChamber] and cast me in chains, accusing me of apostasy. Fortunately enough [my_liege.GetBestName] decided that I am to go free - though I will be branded as an apostate.;;;;;;;;;;X
-MNM.70320.a;Fortunate, in a way.;;;;;;;;;;X
-MNM.70330.d;Curse that damned [my_liege.GetLordSpiritualName], [my_liege.job_spiritual.GetFullName]! [my_liege.job_spiritual.GetSheHeCap] and [my_liege.job_spiritual.GetHerHis] posse of [my_liege.job_spiritual.GetReligionWarriorPlural] stormed into my [Root.GetChamber] and cast me in chains, accusing me of apostasy. Fortunately enough [my_liege.GetBestName] decided that I am to go free - [my_liege.GetFirstName] was evidently convinced of my innocence!;;;;;;;;;;X
-MNM.70330.a;I walk free!;;;;;;;;;;X
-MNM.70400.d.executed;Disaster! Your fellow member of [Root.Society.GetName], [From.GetBestName], has been caught by [my_liege.GetLordSpiritualName] [my_liege.job_spiritual.GetFullName] and [my_liege.job_spiritual.GetHerHis] [my_liege.job_spiritual.GetReligionWarriorPlural]! They spared no time before they burned [From.GetHerHim] at the stake...;;;;;;;;;;X
-MNM.70400.d.imprisoned;Disaster! Your fellow member of [Root.Society.GetName], [From.GetBestName], has been caught by [my_liege.GetLordSpiritualName] [my_liege.job_spiritual.GetFullName] and [my_liege.job_spiritual.GetHerHis] [my_liege.job_spiritual.GetReligionWarriorPlural]! [From.GetSheHeCap] now rots away in [my_liege.GetTitle] [my_liege.GetFirstName]'s dungeon...;;;;;;;;;;X
-MNM.70400.d.caught;Disaster! Your fellow member of [Root.Society.GetName], [From.GetBestName], has been caught by [my_liege.GetLordSpiritualName] [my_liege.job_spiritual.GetFullName] and [my_liege.job_spiritual.GetHerHis] [my_liege.job_spiritual.GetReligionWarriorPlural]! They used hot irons to brand [From.GetFirstName] an apostate, fortunately they spared [From.GetHerHis] life...;;;;;;;;;;X
+nick_the_inquisitor;审判者;;;;;;;;;;X
+nick_the_purifier;净化者;;;;;;;;;;X
+String_man_at_arm;武装人数;;;;;;;;;;X
+String_spahi;骑兵;;;;;;;;;;X
+MNM.6668.d;你最近并不谨慎——频繁而多次地使用[Root.Society.GetName]的力量，毫不考虑保密。[Root.Religion.GetPriestTitle] 们为此已经开始公开指控你的叛教行为!;;;;;;;;;;X
+opinion_accused_apostate;被指控为叛教;;;;;;;;;;X
+accused_apostate;有烙印的叛教者;;;;;;;;;;X
+accused_apostate_desc;此人被指为叛教，这种指控是否属实就是另一回事了...;;;;;;;;;;X
+accuse_rival_tooltip;用这个机会报复你的仇敌，指控 [rival_target.GetHerHim] 是个叛教者. §Y[rival_target.GetBestName]§! 或许并没有罪过，但你的领主无论如何不会更聪明...;;;;;;;;;;X
+apostate_found_tooltip;你将 §Y[accused_apostate.GetBestName]§! 带到了 §Y[Root.Liege.GetTitle] [Root.Liege.GetFirstName]§!的宫廷, [Root.Liege.GetSheHe] 将决定这叛教者的命运!;;;;;;;;;;X
+MNM.70110.d.highly_suspected_society_member;在采取了大量目击者的陈述，并密切考察了 [accused_apostate.GetHerHis]一举一动之后, 你掌握了足够而确凿的证据来指控 [accused_apostate.GetBestName] 是叛教者—— [accused_apostate.GetSheHe] 明显地效忠于 [accused_apostate.Society.GetName]! 你的 [Root.GetReligionWarriorPlural] 准备好了把 [accused_apostate.GetHerHim] 绑来你的面前.;;;;;;;;;;X
+MNM.70110.d.suspected_society_member;在采取了大量目击者的陈述，并密切考察了 [accused_apostate.GetHerHis]一举一动之后, 你成功收集到刚好足够的证据来指控 [accused_apostate.GetBestName] 是叛教者—— [accused_apostate.GetSheHe] 一直同 [accused_apostate.Society.GetName] 相勾结! 你的 [Root.GetReligionWarriorPlural] 准备好了把 [accused_apostate.GetHerHim] 绑来你的面前.;;;;;;;;;;X
+MNM.70110.d.suspected_apostate;在监视[accused_apostate.GetBestName]的时候你发现了大量的异端书籍和道具. 这些加在一起，现在你有了足够而确凿的证据来指控 [accused_apostate.GetHerHim] 是叛教者—— [accused_apostate.GetSheHeCap] 自称是一个虔诚的[accused_apostate.Religion.GetName], 但[accused_apostate.GetSheHe]显然在说谎——[accused_apostate.GetSheHe] 一直秘密地修习 [accused_apostate.GetTrueReligionAdherent]! 你的 [Root.GetReligionWarriorPlural] 已准备好把 [accused_apostate.GetHerHim] 绑来你面前.;;;;;;;;;;X
+MNM.70110.d.no_suspicion;在采取了一些儿童和关心的农民的口述之后, 你收集到一些证据指向 [accused_apostate.GetBestName] 的叛教—— 你敏锐地觉察到 [accused_apostate.GetFirstName]的灵魂已经受到 [Root.Religion.GetRandomEvilGodName]玷污! 你的 [Root.GetReligionWarriorPlural] 准备好了把 [accused_apostate.GetHerHim] 绑来你的面前.;;;;;;;;;;X
+MNM.70110.d.innocent_victim;在采取了一些儿童和关心的农民的口述之后, 你收集到一些证据指向 [accused_apostate.GetBestName] 的叛教—— 你敏锐地觉察到 [accused_apostate.GetFirstName]的灵魂已经受到 [Root.Religion.GetRandomEvilGodName]玷污! 你的 [Root.GetReligionWarriorPlural] 准备好了把 [accused_apostate.GetHerHim] 绑来你的面前.;;;;;;;;;;X
+MNM.70110.a;抓住[accused_apostate.GetHerHim]! [accused_apostate.GetSheHeCap] 将会受到 [Root.Liege.GetTitle] [Root.Liege.GetFirstName]的审判.;;;;;;;;;;X
+MNM.70110.b;我知道我更应该指控谁...;;;;;;;;;;X
+MNM.70200.d.highly_suspected_society_member;[Root.GetLordSpiritualName] [Root.job_spiritual.GetFirstName] 冲进你的 [Root.GetChamber], 身侧有几名 [Root.GetReligionWarriorPlural] 拖来了带着枷锁的 [accused_apostate.GetBestName]. "我的 [Root.GetTitle], 这[accused_apostate.GetManWoman]公开承认了[accused_apostate.GetSheHe]对 [accused_apostate.Society.GetName]的忠诚! 我们该怎么处理[accused_apostate.GetHerHim]?";;;;;;;;;;X
+MNM.70200.d.suspected_society_member;[Root.GetLordSpiritualName] [Root.job_spiritual.GetFirstName] 冲进你的[Root.GetChamber], 身侧有几名 [Root.GetReligionWarriorPlural] 拖来了带着枷锁的 [accused_apostate.GetBestName]. "我的[Root.GetTitle], 我搜罗了无可辩驳的证据证明这[accused_apostate.GetManWoman]同 [accused_apostate.Society.GetName]相勾结! 我们该怎么处理[accused_apostate.GetHerHim]?";;;;;;;;;;X
+MNM.70200.d.suspected_apostate;[Root.GetLordSpiritualName] [Root.job_spiritual.GetFirstName] 冲进你的[Root.GetChamber], 身侧有几名 [Root.GetReligionWarriorPlural] 拖来了带着枷锁的 [accused_apostate.GetBestName]. "我的[Root.GetTitle], 我们在这叛教者阅读[accused_apostate.TrueReligion.GetName] [accused_apostate.GetTrueReligionScriptureName], 以及向 [accused_apostate.TrueReligion.GetHighGodName]献上赞美的时候抓住了[accused_apostate.GetHerHim]! 我们该怎么处理[accused_apostate.GetHerHim]?";;;;;;;;;;X
+MNM.70200.d.no_suspicion;[Root.GetLordSpiritualName] [Root.job_spiritual.GetFirstName]冲进你的[Root.GetChamber], flanked by several [Root.GetReligionWarriorPlural] dragging [accused_apostate.GetBestName] with them in chains. "My [Root.GetTitle], there are many concerned peasants claiming that their children are plagued by nightmares of this [accused_apostate.GetManWoman] - [accused_apostate.GetSheHe] is obviously a [accused_apostate.GetWarlockWitch]! What shall be done with [accused_apostate.GetHerHim]?";;;;;;;;;;X
+MNM.70200.d.innocent_victim;[Root.GetLordSpiritualName] [Root.job_spiritual.GetFirstName]冲进你的[Root.GetChamber], flanked by several [Root.GetReligionWarriorPlural] dragging [accused_apostate.GetBestName] with them in chains. "My [Root.GetTitle], there are many concerned peasants claiming that their children are plagued by nightmares of this [accused_apostate.GetManWoman] - [accused_apostate.GetSheHe] is obviously a [accused_apostate.GetWarlockWitch]! What shall be done with [accused_apostate.GetHerHim]?";;;;;;;;;;X
+MNM.70200.a;烧死这个叛徒!;;;;;;;;;;X
+MNM.70200.b;把他丢进地牢.;;;;;;;;;;X
+MNM.70200.c;把烙铁拿过来!;;;;;;;;;;X
+MNM.70200.d;让[accused_apostate.GetHerHim]走吧, 这能有什么害处?;;;;;;;;;;X
+MNM.70300.d;那悖时砍脑壳的[my_liege.GetLordSpiritualName], [my_liege.job_spiritual.GetFullName]! [my_liege.job_spiritual.GetSheHeCap]和[my_liege.job_spiritual.GetHerHis]那伙[my_liege.job_spiritual.GetReligionWarriorPlural]闯进我的[Root.GetChamber]，捆了我，还说我叛教. 现在[my_liege.GetBestName]要把我活活烧死!;;;;;;;;;;X
+MNM.70300.a;[accused_apostate.GetDWDevil], 替我报仇!;;;;;;;;;;X
+MNM.70300.b;[Root.Religion.GetHighGodName]救我!;;;;;;;;;;X
+MNM.70310.d;那悖时砍脑壳的[my_liege.GetLordSpiritualName], [my_liege.job_spiritual.GetFullName]! [my_liege.job_spiritual.GetSheHeCap]和[my_liege.job_spiritual.GetHerHis]那伙[my_liege.job_spiritual.GetReligionWarriorPlural]闯进我的[Root.GetChamber]，捆了我，还说我叛教. 现在[my_liege.GetBestName]要我烂在[my_liege.GetHerHis]地牢里!;;;;;;;;;;X
+MNM.70310.a;我早晚会放出来的，那时你等着瞧!;;;;;;;;;;X
+MNM.70320.d;诅咒那该死的[my_liege.GetLordSpiritualName], [my_liege.job_spiritual.GetFullName]! [my_liege.job_spiritual.GetSheHeCap]和[my_liege.job_spiritual.GetHerHis]那一群[my_liege.job_spiritual.GetReligionWarriorPlural]闯入了我的[Root.GetChamber]，给我套上枷锁, 指控我叛教. 幸运的是[my_liege.GetBestName]决定我可以自由—— 尽管我将被打上叛教者的烙印.;;;;;;;;;;X
+MNM.70320.a;从某种意义上说，很幸运.;;;;;;;;;;X
+MNM.70330.d;那悖时砍脑壳的[my_liege.GetLordSpiritualName], [my_liege.job_spiritual.GetFullName]! [my_liege.job_spiritual.GetSheHeCap]和[my_liege.job_spiritual.GetHerHis]那伙[my_liege.job_spiritual.GetReligionWarriorPlural]闯进我的[Root.GetChamber]，捆了我，还说我叛教. 谢天谢地，[my_liege.GetBestName]把我给放了—— [my_liege.GetFirstName]觉得我是清白的!;;;;;;;;;;X
+MNM.70330.a;我自由了!;;;;;;;;;;X
+MNM.70400.d.executed;糟糕! 你在[Root.Society.GetName]的同行, [From.GetBestName], 让[my_liege.GetLordSpiritualName] [my_liege.job_spiritual.GetFullName]跟[my_liege.job_spiritual.GetHerHis] [my_liege.job_spiritual.GetReligionWarriorPlural]给逮住了! 他们眼也不眨就把[From.GetHerHim]搁火上烧了...;;;;;;;;;;X
+MNM.70400.d.imprisoned;糟糕! 你在[Root.Society.GetName]的同行, [From.GetBestName], 让[my_liege.GetLordSpiritualName] [my_liege.job_spiritual.GetFullName]跟[my_liege.job_spiritual.GetHerHis] [my_liege.job_spiritual.GetReligionWarriorPlural]给逮住了! [From.GetSheHeCap]怕是要烂在[my_liege.GetTitle] [my_liege.GetFirstName]的牢里...;;;;;;;;;;X
+MNM.70400.d.caught;糟糕! 你在[Root.Society.GetName]的同行, [From.GetBestName], 让[my_liege.GetLordSpiritualName] [my_liege.job_spiritual.GetFullName]跟[my_liege.job_spiritual.GetHerHis] [my_liege.job_spiritual.GetReligionWarriorPlural]给逮住了! They used hot irons to brand [From.GetFirstName] an apostate, fortunately they spared [From.GetHerHis] life...;;;;;;;;;;X
 MNM.70400.a;It is a sign for me to lay low...;;;;;;;;;;X
 alert_close_gates_name;Close the Gates;;;;;;;;;;X
 alert_open_gates_name;Open the Gates;;;;;;;;;;X
@@ -43,40 +43,40 @@ EVTOPTA_TOG_621_Aztec_Religious_Head;Your vile pantheon of gods have no power he
 String_Muslim;Muslim;;;;;;;;;;X
 monastic_order_convert_county;Convert County;;;;;;;;;;X
 monastic_order_convert_county_desc;Send emissaries from [From.Society.GetName] to the local population in order to convert them to the [From.Religion.GetName] faith.;;;;;;;;;;X
-monastic_order_convert_county_power_desc;Enables �Gright-clicking�! the title shield of a county to convert the local population to your religion.;;;;;;;;;;X
+monastic_order_convert_county_power_desc;Enables §Gright-clicking§! the title shield of a county to convert the local population to your religion.;;;;;;;;;;X
 EVTDESC_MNM_4990;A majority of the population in [From.GetName] has embraced the [Root.Religion.GetName] faith.;;;;;;;;;;X
 EVTDESC_MNM_4991;A courier is brought before me with a message, telling me that [FromFrom.GetTitledFirstName] has sent emissaries to [From.GetName] who have successfully managed to persuade the populace to embrace the [FromFrom.Religion.GetName] faith.;;;;;;;;;;X
 TRIGGER_ARTIFACT_OWNER;Artifact Owner;;;;;;;;;;X
 TRIGGER_ARTIFACT_ORIGINAL_OWNER;Artifact Original Owner;;;;;;;;;;X
 INHERITANCE_LOST_ARTIFACTS_LOG;During the transfer of power, $CHARACTER$ lost their $ARTIFACT$.;;;;;;;;;;X
-ask_wards_liege_to_allow_culture_religion_swap_desc;���ŧY[Root.Liege.GetTitledFirstName]�!���������ı�Y[Root.GetFirstName]�!���������ġ�רע����Ĵ��н�ʹ�Y[Root.GetFirstName]�!��������ڽ̺��Ļ���;;;;;;;;;;X
-change_wards_focus_to_heritage_desc;ת�Ƶ��Y[Root.GetFirstName]�!�Ľ������ġ�רע�ڼ̳л�ʹ�Y[Root.GetFirstName]�!��������Ļ����ڽ�������;;;;;;;;;;X
-EVTDESC_ZE_2131;�װ���[Root.GetTitledNameWithNick]��\n\n�Һܻ�ӭ�����Լ��Ĵ�ͳ������[FromFrom.GetFirstName]��;;;;;;;;;;X
-EVTOPTA_ZE_2131;�һ�̺�[FromFrom.GetHerHim]�ġ�;;;;;;;;;;X
+ask_wards_liege_to_allow_culture_religion_swap_desc;ÖÂÐÅ§Y[Root.Liege.GetTitledFirstName]§!ÇëÇóÔÊÐí¸Ä±ä§Y[Root.GetFirstName]§!ÑøÓýµÄÖØÐÄ¡£×¨×¢ÓÚÄãµÄ´«³Ð½«Ê¹§Y[Root.GetFirstName]§!½ÓÊÜÄãµÄ×Ú½ÌºÍÎÄ»¯¡£;;;;;;;;;;X
+change_wards_focus_to_heritage_desc;×ªÒÆµ½§Y[Root.GetFirstName]§!µÄ½ÌÓýÖØÐÄ¡£×¨×¢ÓÚ¼Ì³Ð»áÊ¹§Y[Root.GetFirstName]§!½ÓÊÜÄãµÄÎÄ»¯ºÍ×Ú½ÌÐÅÑö¡£;;;;;;;;;;X
+EVTDESC_ZE_2131;Ç×°®µÄ[Root.GetTitledNameWithNick]£¬\n\nÎÒºÜ»¶Ó­ÄãÒÔ×Ô¼ºµÄ´«Í³À´½ÌÓý[FromFrom.GetFirstName]¡£;;;;;;;;;;X
+EVTOPTA_ZE_2131;ÎÒ»á½ÌºÃ[FromFrom.GetHerHim]µÄ¡£;;;;;;;;;;X
 GIVE_ARTIFACT_INTERACTION_TITLE;Give Artifact;;;;;;;;;;X
-GIVE_ARTIFACT_INTERACTION_DESC;Gift �Y[Recipient.GetBestName]�! with an Artifact from your Treasury.;;;;;;;;;;X
+GIVE_ARTIFACT_INTERACTION_DESC;Gift §Y[Recipient.GetBestName]§! with an Artifact from your Treasury.;;;;;;;;;;X
 GIVE_ARTIFACT_INTERACTION_LONG_DESC;You can offer one of your Artifacts as a gift.;;;;;;;;;;X
 GIVE_ARTIFACT_INTERACTION_0;Select an Artifact to give - gratitude will vary depending on quality and significance to the recipient.;;;;;;;;;;X
-GIVE_ARTIFACT_INTERACTION_1;Offer $ARTIFACT|Y$ as a gift to �Y[Recipient.GetBestName]�!, for �G+$OPINION$�! Opinion.;;;;;;;;;;X
-GIVE_ARTIFACT_INTERACTION_2;Offer $ARTIFACT|Y$ as a gift to �Y[Recipient.GetBestName]�!. �RThis will not increase [Recipient.GetPossPronoun] opinion of you further.�!;;;;;;;;;;X
+GIVE_ARTIFACT_INTERACTION_1;Offer $ARTIFACT|Y$ as a gift to §Y[Recipient.GetBestName]§!, for §G+$OPINION$§! Opinion.;;;;;;;;;;X
+GIVE_ARTIFACT_INTERACTION_2;Offer $ARTIFACT|Y$ as a gift to §Y[Recipient.GetBestName]§!. §RThis will not increase [Recipient.GetPossPronoun] opinion of you further.§!;;;;;;;;;;X
 GIVE_ARTIFACT_INTERACTION_ACCEPT_SETUP;Artifact Gift Accepted;;;;;;;;;;X
-GIVE_ARTIFACT_INTERACTION_ACCEPT_LOG;�Y[Recipient.GetBestName]�! accepted �Y[GetArtifactName]�! as a gift from �Y[Actor.GetBestName]�!.;;;;;;;;;;X
+GIVE_ARTIFACT_INTERACTION_ACCEPT_LOG;§Y[Recipient.GetBestName]§! accepted §Y[GetArtifactName]§! as a gift from §Y[Actor.GetBestName]§!.;;;;;;;;;;X
 GIVE_ARTIFACT_INTERACTION_DECLINE_SETUP;Artifact Gift Declined;;;;;;;;;;X
-GIVE_ARTIFACT_INTERACTION_DECLINE_LOG;�Y[Recipient.GetBestName]�! declined �Y[Actor.GetBestName]�!'s gift of �Y[GetArtifactName]�!.;;;;;;;;;;X
+GIVE_ARTIFACT_INTERACTION_DECLINE_LOG;§Y[Recipient.GetBestName]§! declined §Y[Actor.GetBestName]§!'s gift of §Y[GetArtifactName]§!.;;;;;;;;;;X
 GIVE_ARTIFACT_INTERACTION_OFFER;[Actor.GetBestName] is offering me a gift of [GetArtifactName].;;;;;;;;;;X
 GIVE_ARTIFACT_INTERACTION_LETTER;Will you accept [GetArtifactName] as a humble gift?;;;;;;;;;;X
 SELECT_ARTIFACT;Select an Artifact;;;;;;;;;;X
 EVTDESC538;I accept your gracious gift. What a splendid object!;;;;;;;;;;X
 gave_artifact;Gave me an Artifact;;;;;;;;;;X
 QUALITY;Quality;;;;;;;;;;X
-desc_recently_burnt_the_land;�������½��Ӷ��˴˵ز���ũ����װ�Լ������ı������ǵļ�԰��;;;;;;;;;;X
-desc_burnt_the_land; ��Ұ����������Ƶ��Ϯ��֮����Ƭ���ر������;;;;;;;;;;X
-rampaging_nomads;�񱩵�������;;;;;;;;;;X
-desc_rampaging_nomads;һȺ�񱩵�����սʿ���ڶ����ʡ�ݵľ���ʵ�пֲ���ͳ�Ρ������������챻һ����������ɫ��������Щ�񱩵������񽫻ᱻ��ɢ��;;;;;;;;;;X
-recently_burnt_the_land_not_owner;�����������Ӷ�;;;;;;;;;;X
-desc_recently_burnt_the_land_not_owner;��ʡ��������Ѿ����Ӷ���ˡ�ֻҪ����������ڣ���ʡ�ݱ㲻���ٴα��Ӷᡣ;;;;;;;;;;X
+desc_recently_burnt_the_land;ÓÎÄÁÃñÐÂ½üÂÓ¶áÁË´ËµØ²ú¡£Å©ÃñÎä×°×Ô¼º£¬¾öÐÄ±£ÎÀËûÃÇµÄ¼ÒÔ°¡£;;;;;;;;;;X
+desc_burnt_the_land; ÔÚÒ°ÂùµÄÓÎÄÁÃñÆµ·±Ï®»÷Ö®ºó£¬ÕâÆ¬ÍÁµØ±¥ÊÜõåõï¡£;;;;;;;;;;X
+rampaging_nomads;¿ñ±©µÄÓÎÄÁÃñ;;;;;;;;;;X
+desc_rampaging_nomads;Ò»Èº¿ñ±©µÄÓÎÄÁÕ½Ê¿ÕýÔÚ¶ÔÕâ¸öÊ¡·ÝµÄ¾ÓÃñÊµÐÐ¿Ö²ÀµÄÍ³ÖÎ¡£Èç¹ûÕâ¸ö¹«¾ôÁì±»Ò»Ãû·ÇÓÎÄÁ½ÇÉ«Õ÷·þ£¬ÕâÐ©¿ñ±©µÄÓÎÄÁÃñ½«»á±»ÇýÉ¢¡£;;;;;;;;;;X
+recently_burnt_the_land_not_owner;±»ÓÎÄÁ²¿ÂäÂÓ¶á;;;;;;;;;;X
+desc_recently_burnt_the_land_not_owner;´ËÊ¡·ÝÔÚ×î½üÒÑ¾­±»ÂÓ¶á¹ýÁË¡£Ö»ÒªÕâ¸öÐÞÕý´æÔÚ£¬´ËÊ¡·Ý±ã²»ÄÜÔÙ´Î±»ÂÓ¶á¡£;;;;;;;;;;X
 EVTDESC_HL_4814_NON_NOMAD;Your warriors have looted, ravaged, pillaged and plundered [target_location.GetName] to such a degree that a Holding in the county has been completely devastated. Only empty ruins remain, haunted by the shades of the slain...;;;;;;;;;;X
-PROVINCE_HOTKEY_INFO;Press �GRight Click�! to go to the province owner\nPress �GShift + Right Click�! to go to the top liege of the province owner\nPress �GAlt + Right Click�! to interact with the province owner\nPress �GAlt + Shift + Right Click�! to interact with the top liege of the province owner;;;;;;;;;;X
+PROVINCE_HOTKEY_INFO;Press §GRight Click§! to go to the province owner\nPress §GShift + Right Click§! to go to the top liege of the province owner\nPress §GAlt + Right Click§! to interact with the province owner\nPress §GAlt + Shift + Right Click§! to interact with the top liege of the province owner;;;;;;;;;;X
 EMPTY_SEAT_VOTES;$NUM|Y$ empty seats;;;;;;;;;;X
 SET_SECRET_RELIGION_NONE;$CHARACTER|Y$ ceases to secretly practice a religion\n;;;;;;;;;;X
 SET_SECRET_RELIGION;$CHARACTER|Y$ starts to secretly practice the $RELIGION|Y$ religion\n;;;;;;;;;;X
@@ -476,15 +476,15 @@ EVTOPTD_MNM_1200_herb;Some crushed [GetSelectedIngredient_1] shall help form the
 EVTOPTD_MNM_1200_animal_part;Actually, I should add some ground [GetSelectedIngredient_1] to help form the pattern.;;;;;;;;;;X
 EVTOPTD_MNM_1200_powder;Surely a sprinkle of [GetSelectedIngredient_1] will add to the pattern.;;;;;;;;;;X
 EVTOPTD_MNM_1200_liquid;Hmm... A few drops of [GetSelectedIngredient_1] should form a magnificent pattern.;;;;;;;;;;X
-EVTOPTD_MNM_1200_tt;Using the �Y[GetSelectedIngredient_1]�! will increase your chances of having a positive reaction to the shapes in the water.\n;;;;;;;;;;X
-destroy_selected_ingredient_1_tt;�Y[GetSelectedIngredient_1]�! will be removed from the Treasury.\n;;;;;;;;;;X
-destroy_selected_ingredient_2_tt;�Y[GetSelectedIngredient_2]�! will be removed from the Treasury.\n;;;;;;;;;;X
-destroy_selected_ingredient_1_and_2_tt;�Y[GetSelectedIngredient_1]�! and �Y[GetSelectedIngredient_2]�! will be removed from the Treasury.\n;;;;;;;;;;X
-destroy_selected_ingredient_1_plus_random_other_ingredient_tt;�Y[GetSelectedIngredient_1]�! and one random ingredient will be removed from the Treasury.\n;;;;;;;;;;X
-ingredient_option_available_tt;This option is available to you because you have an �YIngredient�! in your Treasury.\n \n;;;;;;;;;;X
-multiple_ingredient_option_available_tt;This option is available to you because you have multiple �YIngredients�! in your Treasury.\n \n;;;;;;;;;;X
-EVTDESC_MNM_1200_B;I place the bowl before me and wait for the water to be perfectly still. A regular scrying would allow me to choose a focus for my thoughts � on the other hand, I could use something from my shelves of alchemy in order to create something unseen before... The reflection on the water ripples as I let out a deep breath.;;;;;;;;;;X
-EVTDESC_MNM_5208;There is something annoyingly pompous in the speech of [fellow_member_target.GetTitledFirstName] � when did [fellow_member_target.GetSheHe] become an expert on [Root.GetHermeticDebateSubject]?\nSighing, I close my hand around the vial in my pocket.;;;;;;;;;;X
+EVTOPTD_MNM_1200_tt;Using the §Y[GetSelectedIngredient_1]§! will increase your chances of having a positive reaction to the shapes in the water.\n;;;;;;;;;;X
+destroy_selected_ingredient_1_tt;§Y[GetSelectedIngredient_1]§! will be removed from the Treasury.\n;;;;;;;;;;X
+destroy_selected_ingredient_2_tt;§Y[GetSelectedIngredient_2]§! will be removed from the Treasury.\n;;;;;;;;;;X
+destroy_selected_ingredient_1_and_2_tt;§Y[GetSelectedIngredient_1]§! and §Y[GetSelectedIngredient_2]§! will be removed from the Treasury.\n;;;;;;;;;;X
+destroy_selected_ingredient_1_plus_random_other_ingredient_tt;§Y[GetSelectedIngredient_1]§! and one random ingredient will be removed from the Treasury.\n;;;;;;;;;;X
+ingredient_option_available_tt;This option is available to you because you have an §YIngredient§! in your Treasury.\n \n;;;;;;;;;;X
+multiple_ingredient_option_available_tt;This option is available to you because you have multiple §YIngredients§! in your Treasury.\n \n;;;;;;;;;;X
+EVTDESC_MNM_1200_B;I place the bowl before me and wait for the water to be perfectly still. A regular scrying would allow me to choose a focus for my thoughts  on the other hand, I could use something from my shelves of alchemy in order to create something unseen before... The reflection on the water ripples as I let out a deep breath.;;;;;;;;;;X
+EVTDESC_MNM_5208;There is something annoyingly pompous in the speech of [fellow_member_target.GetTitledFirstName]  when did [fellow_member_target.GetSheHe] become an expert on [Root.GetHermeticDebateSubject]?\nSighing, I close my hand around the vial in my pocket.;;;;;;;;;;X
 EVTOPTC_MNM_5211;I should concoct something to relax me, or help me focus even!;;;;;;;;;;X
 EVTOPTA_MNM_1622_use_ingredients;I have some interesting flasks that could aid us!;;;;;;;;;;X
 EVTOPTC_MNM_1842_herb;Calm down, child. I'll brew something with a hint of [GetSelectedIngredient_1].;;;;;;;;;;X
@@ -506,9 +506,9 @@ EVTOPTB_MNM_1855;I'll make a stew of [GetSelectedIngredient_2]...!;;;;;;;;;;X
 EVTOPTC_MNM_1855;I'll sleep with a nugget of [GetSelectedIngredient_2] under my pillow.;;;;;;;;;;X
 EVTOPTD_MNM_1855;I'll attempt something new...!;;;;;;;;;;X
 EVTOPTE_MNM_1855;I'd rather not.;;;;;;;;;;X
-destroy_all_ingredients_tt;All �YIngredients�! are destroyed and will be removed from the Treasury.\n;;;;;;;;;;X
-random_ingredients_are_destroyed_tt;Some �YIngredients�! are destroyed and will be removed from the Treasury.\n;;;;;;;;;;X
-ingredients_are_sent_tt;Some �YIngredients�! will be removed from the Treasury and sent to �Y[From.GetTitledFirstName]�!, in preparation for the ritual.\nThere is a chance this will enhance your experience.\n;;;;;;;;;;X
+destroy_all_ingredients_tt;All §YIngredients§! are destroyed and will be removed from the Treasury.\n;;;;;;;;;;X
+random_ingredients_are_destroyed_tt;Some §YIngredients§! are destroyed and will be removed from the Treasury.\n;;;;;;;;;;X
+ingredients_are_sent_tt;Some §YIngredients§! will be removed from the Treasury and sent to §Y[From.GetTitledFirstName]§!, in preparation for the ritual.\nThere is a chance this will enhance your experience.\n;;;;;;;;;;X
 EVTOPTB_MNM_1435_single_ingredient;I shall use a simple potion.;;;;;;;;;;X
 EVTDESC_MNM_5109_hermetic;I have recently come into possession of several alchemical ingredients. As a member of the Hermetic Order, I suppose I should do some sort of inventory... Regardless, the [GetSelectedIngredient_1] [GetSelectedIngredient_1_property].;;;;;;;;;;X
 EVTDESC_MNM_5109_other_society;I have recently come into possession of some manner of 'alchemical' ingredients. I am not entirely sure what to make of it! Regardless, the [GetSelectedIngredient_1] [GetSelectedIngredient_1_property].;;;;;;;;;;X
@@ -552,12 +552,12 @@ String_reeks;makes my nose twitch from its reeking;;;;;;;;;;X
 String_reek;make my nose twitch from their reeking;;;;;;;;;;X
 String_glitters;glitters faintly;;;;;;;;;;X
 String_glitter;glitter faintly;;;;;;;;;;X
-EVTDESC_MNM_5110;My fellow members of the Order sometimes speak of intricate charms and recipes to ward off evil, and perhaps I should take precautions too. Considering the stars of the [GetWesternZodiacSign], I nod to myself � the [GetSelectedIngredient_1] on my shelves [GetSelectedIngredient_1_property].;;;;;;;;;;X
+EVTDESC_MNM_5110;My fellow members of the Order sometimes speak of intricate charms and recipes to ward off evil, and perhaps I should take precautions too. Considering the stars of the [GetWesternZodiacSign], I nod to myself  the [GetSelectedIngredient_1] on my shelves [GetSelectedIngredient_1_property].;;;;;;;;;;X
 EVTOPTA_MNM_5110;The [GetSelectedIngredient_1] strategically placed in my quarters should suffice.;;;;;;;;;;X
 EVTOPTB_MNM_5110;I will use a combination of elements for this task.;;;;;;;;;;X
 EVTOPTC_MNM_5110;I'll paint my whole castle with the holy symbols! It's the only way!;;;;;;;;;;X
 EVTOPTD_MNM_5110;This is foolish paranoia.;;;;;;;;;;X
-must_have_ingredients_tt;Has at least two �YIngredients�!;;;;;;;;;;X
+must_have_ingredients_tt;Has at least two §YIngredients§!;;;;;;;;;;X
 EVTDESC_MNM_5115_self;In this state, I almost do not care about the quality of my potion. Still, while rummaging through my drawers, I can't quite decide on which ingredients to use... The [GetSelectedIngredient_1] [GetSelectedIngredient_1_property], I suppose.;;;;;;;;;;X
 EVTDESC_MNM_5115_other;[potion_target.GetTitledFirstName] will likely accept my brew, regardless of the quality. However, sifting through my recipes, I can't quite decide on which ingredients to use... While the [GetSelectedIngredient_1] [GetSelectedIngredient_1_property], I wonder what my [potion_target.GetRootRelation] would think.;;;;;;;;;;X
 EVTOPTA_MNM_5115_herb;Some crushed [GetSelectedIngredient_1] feels about right.;;;;;;;;;;X
@@ -583,21 +583,21 @@ EVTDESC_MNM_4960;[From.GetTitledFirstName] listened to me carefully as I explain
 EVTDESC_MNM_4961;[FromFrom.GetTitledFirstName] clearly explained how [From.GetSheHe] deals with this sometimes unforgiving and stressful life through virtue. Listening to [FromFrom.GetHerHim], I have learned to be more at peace with myself, by being more virtuous.;;;;;;;;;;X
 monastic_orders_spiritual_guidance;Give Spiritual Guidance;;;;;;;;;;X
 monastic_orders_spiritual_guidance_desc;You know [Root.GetTitledFirstName] to be a sinful person. As such you can provide spiritual guidance to help rid [Root.GetHerHim] of one of [Root.GetHerHis] vices.;;;;;;;;;;X
-monastic_orders_spiritual_guidance_power_desc;Enables you to �Gright-click�! on landed characters within your realm, or relatives, or fellow society members, in order to remove one of their vices. You can only remove a vice that you don't have yourself.;;;;;;;;;;X
+monastic_orders_spiritual_guidance_power_desc;Enables you to §Gright-click§! on landed characters within your realm, or relatives, or fellow society members, in order to remove one of their vices. You can only remove a vice that you don't have yourself.;;;;;;;;;;X
 opinion_spiritual_guidance;Received Spiritual Guidance;;;;;;;;;;X
-spiritual_guidance_tooltip;Has a sin that �Y[From.GetTitledFirstName]�! does NOT have;;;;;;;;;;X
+spiritual_guidance_tooltip;Has a sin that §Y[From.GetTitledFirstName]§! does NOT have;;;;;;;;;;X
 monastic_orders_teach_virtue;Teach Virtue;;;;;;;;;;X
 monastic_orders_teach_virtue_desc;You have noticed how [Root.GetTitledFirstName] sometimes struggles with doing the right thing. You could change that by teaching [Root.GetHerHim] one of your many virtues.;;;;;;;;;;X
-monastic_orders_teach_virtue_power_desc;Enables you to �Gright-click�! on landed characters within your realm, relatives, or fellow society members, in order to give them a new virtue. You can only add a virtue that you have yourself.;;;;;;;;;;X
+monastic_orders_teach_virtue_power_desc;Enables you to §Gright-click§! on landed characters within your realm, relatives, or fellow society members, in order to give them a new virtue. You can only add a virtue that you have yourself.;;;;;;;;;;X
 opinion_teach_virtue;Taught a Virtue;;;;;;;;;;X
-teach_virtue_tooltip;Does NOT have all the virtues that �Y[From.GetTitledFirstName]�! has;;;;;;;;;;X
+teach_virtue_tooltip;Does NOT have all the virtues that §Y[From.GetTitledFirstName]§! has;;;;;;;;;;X
 EVTDESC20271;To [Root.GetTitledFirstName],\nYour findings have proven to be most fascinating and I am now convinced to follow in your footsteps and immediately convert to the [Root.Religion.GetName] faith. However, I have chosen to keep this hidden to avoid prying eyes. I urge you to do the same!\n\nYour liege, [From.GetTitledFirstName];;;;;;;;;;X
 EVTOPTA20271;A wise decision.;;;;;;;;;;X
 EVTOPTB20271;To hide who I am? Never!;;;;;;;;;;X
 secretly_convert_to_province_religion;Secretly Convert to [Root.Location.Religion.GetName];;;;;;;;;;X
-secretly_convert_to_province_religion_desc;The �Y[Root.Location.Religion.GetName]�! people in �Y[Root.Location.GetName]�! impress me with the depth and passion of their faith. The glory of �Y[Root.Location.Religion.GetRandomGodName]�! calls to me, and I am tempted to convert in secrecy...;;;;;;;;;;X
+secretly_convert_to_province_religion_desc;The §Y[Root.Location.Religion.GetName]§! people in §Y[Root.Location.GetName]§! impress me with the depth and passion of their faith. The glory of §Y[Root.Location.Religion.GetRandomGodName]§! calls to me, and I am tempted to convert in secrecy...;;;;;;;;;;X
 secretly_convert_to_close_relations_religion;Secretly Convert to [Root.Religion.GetName];;;;;;;;;;X
-secretly_convert_to_close_relations_religion_desc;The �Y[Root.Religion.GetName]�! faith of �Y[Root.GetFirstName]�! intrigues and fascinates me. I could not embrace it openly, but I am tempted to convert in secrecy...;;;;;;;;;;X
+secretly_convert_to_close_relations_religion_desc;The §Y[Root.Religion.GetName]§! faith of §Y[Root.GetFirstName]§! intrigues and fascinates me. I could not embrace it openly, but I am tempted to convert in secrecy...;;;;;;;;;;X
 secret_cathar_community;Secret Cathar Community;;;;;;;;;;X
 secret_cathar_community_desc;In secret, Cathar faithfuls have organized around a small church community in this province. From there it converts others, grows, and protects their own.;;;;;;;;;;X
 secret_fraticelli_community;Secret Fraticelli Community;;;;;;;;;;X
@@ -660,19 +660,19 @@ secret_mazdaki_community;Secret Mazdaki Community;;;;;;;;;;X
 secret_mazdaki_community_desc;In secret, Mazdaki faithfuls have organized around a small church community in this province. From there it converts others, grows, and protects their own.;;;;;;;;;;X
 secret_manichean_community;Secret Manichean Community;;;;;;;;;;X
 secret_manichean_community_desc;In secret, Manichean faithfuls have organized around a small church community in this province. From there it converts others, grows, and protects their own.;;;;;;;;;;X
-religion_openly_norse_or_reformed_tooltip;Publicly follows the �YGermanic�! religion;;;;;;;;;;X
-religion_openly_baltic_or_reformed_tooltip;Publicly follows the �YRomuva�! religion;;;;;;;;;;X
-religion_openly_finnish_or_reformed_tooltip;Publicly follows the �YSuomenusko�! religion;;;;;;;;;;X
-religion_openly_slavic_or_reformed_tooltip;Publicly follows the �YSlavic�! religion;;;;;;;;;;X
-religion_openly_tengri_or_reformed_tooltip;Publicly follows the �YTengri�! religion;;;;;;;;;;X
-religion_openly_west_african_or_reformed_tooltip;Publicly follows the �YWest African�! religion;;;;;;;;;;X
-religion_openly_zun_or_reformed_tooltip;Publicly follows the �YZun�! religion;;;;;;;;;;X
-religion_openly_aztec_or_reformed_tooltip;Publicly follows the �YAztec�! religion;;;;;;;;;;X
+religion_openly_norse_or_reformed_tooltip;Publicly follows the §YGermanic§! religion;;;;;;;;;;X
+religion_openly_baltic_or_reformed_tooltip;Publicly follows the §YRomuva§! religion;;;;;;;;;;X
+religion_openly_finnish_or_reformed_tooltip;Publicly follows the §YSuomenusko§! religion;;;;;;;;;;X
+religion_openly_slavic_or_reformed_tooltip;Publicly follows the §YSlavic§! religion;;;;;;;;;;X
+religion_openly_tengri_or_reformed_tooltip;Publicly follows the §YTengri§! religion;;;;;;;;;;X
+religion_openly_west_african_or_reformed_tooltip;Publicly follows the §YWest African§! religion;;;;;;;;;;X
+religion_openly_zun_or_reformed_tooltip;Publicly follows the §YZun§! religion;;;;;;;;;;X
+religion_openly_aztec_or_reformed_tooltip;Publicly follows the §YAztec§! religion;;;;;;;;;;X
 FOLLOWS_SECRET_RELIGION_TOOLTIP;This character practices the $RELIGION|Y$ religion in secret;;;;;;;;;;X
 CAN_SEE_SECRET_RELIGION;Knows that $WHO|Y$ secretly practices a religion;;;;;;;;;;X
 CANNOT_SEE_SECRET_RELIGION;Does not know if $WHO|Y$ secretly practices a religion;;;;;;;;;;X
 FILTER_HAS_SECRET_RELIGION;Has Secret Religion;;;;;;;;;;X
-alert_society_rank_up_possible_instant;�YPossible to rank up in society�!;;;;;;;;;;X
+alert_society_rank_up_possible_instant;§YPossible to rank up in society§!;;;;;;;;;;X
 alert_society_rank_up_possible_delayed;You have gained enough influence within your society that you can request promotion to the next rank.;;;;;;;;;;X
 ALLY_ORDER_BUSY_OTHER_CAMPAIGN;This character cannot currently assist you as they are busy with $WAR|Y$;;;;;;;;;;X
 secret_religious_society_bogomilist;the Bogomilist Faithful;;;;;;;;;;X
@@ -682,12 +682,12 @@ known_satanist_desc;This character has been revealed as a worshiper of demons.;;
 EVTTITLE_MNM_7855;[GetDemonHuntersEventTitle];;;;;;;;;;X
 EVTTITLE_MNM_7855_A;The Demon Slayer;;;;;;;;;;X
 EVTTITLE_MNM_7855_A_again;The Return of the Slayer;;;;;;;;;;X
-EVTDESC_MNM_7855_A;Night has fallen as I contemplate my latest ritual � there has to be more efficient ways of washing blood off one's clothes...?\n'You must be the [Root.GetDWDemon]', a voice sounds behind me. I spin, only to find a sinister young woman, casually raising a wooden stake. Then she shrugs. 'I can't let evil like you just walk around'.;;;;;;;;;;X
+EVTDESC_MNM_7855_A;Night has fallen as I contemplate my latest ritual  there has to be more efficient ways of washing blood off one's clothes...?\n'You must be the [Root.GetDWDemon]', a voice sounds behind me. I spin, only to find a sinister young woman, casually raising a wooden stake. Then she shrugs. 'I can't let evil like you just walk around'.;;;;;;;;;;X
 EVTDESC_MNM_7855_A_again;As I retire to my quarters for the night, I am startled by a shadow, suddenly moving. 'It's been a while', a bright voice muses as a woman steps into the light, weapon raised. 'How did you get into my [Root.GetCapitalHolding]?', I demand to know, but my voice betrays my brave act. 'Your guards are sleeping, my [Root.GetLordLady]... Let's finish this'.;;;;;;;;;;X
 EVTTITLE_MNM_7855_B;The Angry Villagers;;;;;;;;;;X
 EVTTITLE_MNM_7855_B_again;The Angry Villagers Return;;;;;;;;;;X
 EVTDESC_MNM_7855_B;After having snuck out for a late walk with my pet familiar, I make my way back through the gates of [Root.Capital.Capital.GetName]. Suddenly, shadows surround me and I'm shoved into a wall. A group of angry villagers, their expressions dark in the light of their torches, has gathered around me. Someone yells: 'burn [Root.GetHerHim]!';;;;;;;;;;X
-EVTDESC_MNM_7855_B_again;I am moving quietly through the gates into the [Root.GetCapitalHolding] tonight, grateful for my disguise. Specific rituals sometimes require me to blend in amongst the common folk. It's become almost second nature � my [GetDWPartyClothes] would be quite the giveaway!\n'There [Root.GetSheHe] is!' someone yells. 'BURN [Root.GetHerHim]!';;;;;;;;;;X
+EVTDESC_MNM_7855_B_again;I am moving quietly through the gates into the [Root.GetCapitalHolding] tonight, grateful for my disguise. Specific rituals sometimes require me to blend in amongst the common folk. It's become almost second nature  my [GetDWPartyClothes] would be quite the giveaway!\n'There [Root.GetSheHe] is!' someone yells. 'BURN [Root.GetHerHim]!';;;;;;;;;;X
 EVTTITLE_MNM_7855_C;The Demon Hunters;;;;;;;;;;X
 EVTTITLE_MNM_7855_C_again;The Return of the Demon Hunters;;;;;;;;;;X
 EVTDESC_MNM_7855_C;Having just performed a ritual requiring the full moon, it's past midnight when I sneak back into my quarters. Satisfied, I begin washing the blood off my hands. Behind me, someone clears their throat. 'Not so fast, you evil [Root.GetDWDemon]'. I feel the tip of a sword in my back. Another voice mutters: 'Just kill it, brother'.;;;;;;;;;;X
@@ -699,7 +699,7 @@ EVTDESC_MNM_7855_D_again;I still have nightmares about the mysterious demon hunt
 EVTTITLE_MNM_7855_E;An Affront to [Root.Religion.GetHighGodName];;;;;;;;;;X
 EVTTITLE_MNM_7855_E_again;Still an Affront to [Root.Religion.GetHighGodName];;;;;;;;;;X
 EVTDESC_MNM_7855_E;I'm not sure what my steward was thinking, letting in a group of holy knights to our [Root.GetCapitalHolding]. They know. Everyone knows! What I am, what I can do... When night falls, I'm not surprised to find myself backed into a dark alley, surrounded by them. 'All [GetDWDemons] must die...!', they cry, riling each other up.;;;;;;;;;;X
-EVTDESC_MNM_7855_E_again;Out surveying my lands, accompanied by a small entourage of servants, I notice a huge cloud of dust being stirred up on the road up ahead... My servants begin to shout and scramble about, as we see a group of knights charging at us � their banner, clearly that of the demon hunting cohort I barely escaped before...;;;;;;;;;;X
+EVTDESC_MNM_7855_E_again;Out surveying my lands, accompanied by a small entourage of servants, I notice a huge cloud of dust being stirred up on the road up ahead... My servants begin to shout and scramble about, as we see a group of knights charging at us  their banner, clearly that of the demon hunting cohort I barely escaped before...;;;;;;;;;;X
 EVTOPTA_MNM_7855;What is the meaning of this? By [GetDWDevil], I will fight you!;;;;;;;;;;X
 EVTOPTA_MNM_7855_again;You're stubborn! By [GetDWDevil], I will still fight you!;;;;;;;;;;X
 EVTOPTB_MNM_7855;You have no idea who are you are dealing with...!;;;;;;;;;;X
@@ -718,7 +718,7 @@ EVTOPTC_MNM_7855_D_again;H-how about I line your pockets with more gold than you
 EVTOPTC_MNM_7855_E_again;I'm still a rich [Root.GetDWDemon]! Let's talk about gold!;;;;;;;;;;X
 EVTOPTD_MNM_7855;W-wait! I can give you names! Track down [other_member_to_blame.GetSocietyRank] [other_member_to_blame.GetFirstName] instead!;;;;;;;;;;X
 EVTOPTA_MNM_7855_TT;You pray to [GetDWDevil] that your personal combat skill will save you.\n;;;;;;;;;;X
-EVTOPTD_MNM_7855_TT;In a moment of desperation, you betray your coven.\nThis will increase suspicion of �Y[other_member_to_blame.GetTitledFirstName]�!.\n;;;;;;;;;;X
+EVTOPTD_MNM_7855_TT;In a moment of desperation, you betray your coven.\nThis will increase suspicion of §Y[other_member_to_blame.GetTitledFirstName]§!.\n;;;;;;;;;;X
 EVTOPTC_MNM_7855_TT;You reach for your money, attempting to bribe your way out.\n;;;;;;;;;;X
 you_are_seriously_injured_TT;you getting badly injured\n;;;;;;;;;;X
 you_are_killed_in_personal_combat_TT;you getting killed in personal combat\n;;;;;;;;;;X
@@ -767,68 +767,68 @@ EVTOPTA_MNM_4218;I am fairly certain I got rid of this thing...;;;;;;;;;;X
 EVTOPTB_MNM_4218;How long has that been there?;;;;;;;;;;X
 EVTOPTB_MNM_4218_TT;You scratch your head.\n;;;;;;;;;;X
 secretly_convert_to_catholic_holy_site;Secretly Convert to Catholic;;;;;;;;;;X
-secretly_convert_to_catholic_holy_site_desc;The �YCatholic�! pilgrims that flock to the holy site in �Y[Root.Location.GetName]�! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
+secretly_convert_to_catholic_holy_site_desc;The §YCatholic§! pilgrims that flock to the holy site in §Y[Root.Location.GetName]§! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
 secretly_convert_to_orthodox_holy_site;Secretly Convert to Orthodox;;;;;;;;;;X
-secretly_convert_to_orthodox_holy_site_desc;The �YOrthodox�! pilgrims that flock to the holy site in �Y[Root.Location.GetName]�! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
+secretly_convert_to_orthodox_holy_site_desc;The §YOrthodox§! pilgrims that flock to the holy site in §Y[Root.Location.GetName]§! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
 secretly_convert_to_miaphysite_holy_site;Secretly Convert to Miaphysite;;;;;;;;;;X
-secretly_convert_to_miaphysite_holy_site_desc;The �YMiaphysite�! pilgrims that flock to the holy site in �Y[Root.Location.GetName]�! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
+secretly_convert_to_miaphysite_holy_site_desc;The §YMiaphysite§! pilgrims that flock to the holy site in §Y[Root.Location.GetName]§! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
 secretly_convert_to_nestorian_holy_site;Secretly Convert to Nestorian;;;;;;;;;;X
-secretly_convert_to_nestorian_holy_site_desc;The �YNestorian�! pilgrims that flock to the holy site in �Y[Root.Location.GetName]�! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
+secretly_convert_to_nestorian_holy_site_desc;The §YNestorian§! pilgrims that flock to the holy site in §Y[Root.Location.GetName]§! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
 secretly_convert_to_sunni_holy_site;Secretly Convert to Sunni;;;;;;;;;;X
-secretly_convert_to_sunni_holy_site_desc;The �YSunni�! pilgrims that flock to the holy site in �Y[Root.Location.GetName]�! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
+secretly_convert_to_sunni_holy_site_desc;The §YSunni§! pilgrims that flock to the holy site in §Y[Root.Location.GetName]§! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
 secretly_convert_to_shiite_holy_site;Secretly Convert to Shiite;;;;;;;;;;X
-secretly_convert_to_shiite_holy_site_desc;The �YShiite�! pilgrims that flock to the holy site in �Y[Root.Location.GetName]�! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
+secretly_convert_to_shiite_holy_site_desc;The §YShiite§! pilgrims that flock to the holy site in §Y[Root.Location.GetName]§! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
 secretly_convert_to_ibadi_holy_site;Secretly Convert to Ibadi;;;;;;;;;;X
-secretly_convert_to_ibadi_holy_site_desc;The �YIbadi�! pilgrims that flock to the holy site in �Y[Root.Location.GetName]�! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
+secretly_convert_to_ibadi_holy_site_desc;The §YIbadi§! pilgrims that flock to the holy site in §Y[Root.Location.GetName]§! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
 secretly_convert_to_jewish_holy_site;Secretly Convert to Jewish;;;;;;;;;;X
-secretly_convert_to_jewish_holy_site_desc;The �YJewish�! pilgrims that flock to the holy site in �Y[Root.Location.GetName]�! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
+secretly_convert_to_jewish_holy_site_desc;The §YJewish§! pilgrims that flock to the holy site in §Y[Root.Location.GetName]§! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
 secretly_convert_to_zoroastrian_holy_site;Secretly Convert to Zoroastrian;;;;;;;;;;X
-secretly_convert_to_zoroastrian_holy_site_desc;The �YZoroastrian�! pilgrims that flock to the holy site in �Y[Root.Location.GetName]�! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
+secretly_convert_to_zoroastrian_holy_site_desc;The §YZoroastrian§! pilgrims that flock to the holy site in §Y[Root.Location.GetName]§! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
 secretly_convert_to_hindu_holy_site;Secretly Convert to Hindu;;;;;;;;;;X
-secretly_convert_to_hindu_holy_site_desc;The �YHindu�! pilgrims that flock to the holy site in �Y[Root.Location.GetName]�! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
+secretly_convert_to_hindu_holy_site_desc;The §YHindu§! pilgrims that flock to the holy site in §Y[Root.Location.GetName]§! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
 secretly_convert_to_buddhist_holy_site;Secretly Convert to Buddhist;;;;;;;;;;X
-secretly_convert_to_buddhist_holy_site_desc;The �YBuddhist�! pilgrims that flock to the holy site in �Y[Root.Location.GetName]�! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
+secretly_convert_to_buddhist_holy_site_desc;The §YBuddhist§! pilgrims that flock to the holy site in §Y[Root.Location.GetName]§! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
 secretly_convert_to_jain_holy_site;Secretly Convert to Jain;;;;;;;;;;X
-secretly_convert_to_jain_holy_site_desc;The �YJain�! pilgrims that flock to the holy site in �Y[Root.Location.GetName]�! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
+secretly_convert_to_jain_holy_site_desc;The §YJain§! pilgrims that flock to the holy site in §Y[Root.Location.GetName]§! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
 secretly_convert_to_norse_pagan_holy_site;Secretly Convert to Germanic;;;;;;;;;;X
-secretly_convert_to_norse_pagan_holy_site_desc;The �YGermanic�! pilgrims that flock to the holy site in �Y[Root.Location.GetName]�! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
+secretly_convert_to_norse_pagan_holy_site_desc;The §YGermanic§! pilgrims that flock to the holy site in §Y[Root.Location.GetName]§! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
 secretly_convert_to_norse_pagan_reformed_holy_site;Secretly Convert to Germanic;;;;;;;;;;X
-secretly_convert_to_norse_pagan_reformed_holy_site_desc;The �YGermanic�! pilgrims that flock to the holy site in �Y[Root.Location.GetName]�! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
+secretly_convert_to_norse_pagan_reformed_holy_site_desc;The §YGermanic§! pilgrims that flock to the holy site in §Y[Root.Location.GetName]§! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
 secretly_convert_to_slavic_pagan_holy_site;Secretly Convert to Slavic;;;;;;;;;;X
-secretly_convert_to_slavic_pagan_holy_site_desc;The �YSlavic�! pilgrims that flock to the holy site in �Y[Root.Location.GetName]�! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
+secretly_convert_to_slavic_pagan_holy_site_desc;The §YSlavic§! pilgrims that flock to the holy site in §Y[Root.Location.GetName]§! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
 secretly_convert_to_slavic_pagan_reformed_holy_site;Secretly Convert to Slavic;;;;;;;;;;X
-secretly_convert_to_slavic_pagan_reformed_holy_site_desc;The �YSlavic�! pilgrims that flock to the holy site in �Y[Root.Location.GetName]�! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
+secretly_convert_to_slavic_pagan_reformed_holy_site_desc;The §YSlavic§! pilgrims that flock to the holy site in §Y[Root.Location.GetName]§! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
 secretly_convert_to_tengri_pagan_holy_site;Secretly Convert to Tengri;;;;;;;;;;X
-secretly_convert_to_tengri_pagan_holy_site_desc;The �YTengri�! pilgrims that flock to the holy site in �Y[Root.Location.GetName]�! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
+secretly_convert_to_tengri_pagan_holy_site_desc;The §YTengri§! pilgrims that flock to the holy site in §Y[Root.Location.GetName]§! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
 secretly_convert_to_tengri_pagan_reformed_holy_site;Secretly Convert to Tengri;;;;;;;;;;X
-secretly_convert_to_tengri_pagan_reformed_holy_site_desc;The �YTengri�! pilgrims that flock to the holy site in �Y[Root.Location.GetName]�! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
+secretly_convert_to_tengri_pagan_reformed_holy_site_desc;The §YTengri§! pilgrims that flock to the holy site in §Y[Root.Location.GetName]§! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
 secretly_convert_to_baltic_pagan_holy_site;Secretly Convert to Romuva;;;;;;;;;;X
-secretly_convert_to_baltic_pagan_holy_site_desc;The �YRomuva�! pilgrims that flock to the holy site in �Y[Root.Location.GetName]�! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
+secretly_convert_to_baltic_pagan_holy_site_desc;The §YRomuva§! pilgrims that flock to the holy site in §Y[Root.Location.GetName]§! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
 secretly_convert_to_baltic_pagan_reformed_holy_site;Secretly Convert to Romuva;;;;;;;;;;X
-secretly_convert_to_baltic_pagan_reformed_holy_site_desc;The �YRomuva�! pilgrims that flock to the holy site in �Y[Root.Location.GetName]�! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
+secretly_convert_to_baltic_pagan_reformed_holy_site_desc;The §YRomuva§! pilgrims that flock to the holy site in §Y[Root.Location.GetName]§! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
 secretly_convert_to_finnish_pagan_holy_site;Secretly Convert to Suomenusko;;;;;;;;;;X
-secretly_convert_to_finnish_pagan_holy_site_desc;The �YSuomenusko�! pilgrims that flock to the holy site in �Y[Root.Location.GetName]�! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
+secretly_convert_to_finnish_pagan_holy_site_desc;The §YSuomenusko§! pilgrims that flock to the holy site in §Y[Root.Location.GetName]§! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
 secretly_convert_to_finnish_pagan_reformed_holy_site;Secretly Convert to Suomenusko;;;;;;;;;;X
-secretly_convert_to_finnish_pagan_reformed_holy_site_desc;The �YSuomenusko�! pilgrims that flock to the holy site in �Y[Root.Location.GetName]�! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
+secretly_convert_to_finnish_pagan_reformed_holy_site_desc;The §YSuomenusko§! pilgrims that flock to the holy site in §Y[Root.Location.GetName]§! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
 secretly_convert_to_west_african_pagan_holy_site;Secretly Convert to West African;;;;;;;;;;X
-secretly_convert_to_west_african_pagan_holy_site_desc;The �YWest African�! pilgrims that flock to the holy site in �Y[Root.Location.GetName]�! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
+secretly_convert_to_west_african_pagan_holy_site_desc;The §YWest African§! pilgrims that flock to the holy site in §Y[Root.Location.GetName]§! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
 secretly_convert_to_west_african_pagan_reformed_holy_site;Secretly Convert to West African;;;;;;;;;;X
-secretly_convert_to_west_african_pagan_reformed_holy_site_desc;The �YWest African�! pilgrims that flock to the holy site in �Y[Root.Location.GetName]�! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
+secretly_convert_to_west_african_pagan_reformed_holy_site_desc;The §YWest African§! pilgrims that flock to the holy site in §Y[Root.Location.GetName]§! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
 secretly_convert_to_aztec_holy_site;Secretly Convert to Aztec;;;;;;;;;;X
-secretly_convert_to_aztec_holy_site_desc;The �YAztec�! pilgrims that flock to the holy site in �Y[Root.Location.GetName]�! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
+secretly_convert_to_aztec_holy_site_desc;The §YAztec§! pilgrims that flock to the holy site in §Y[Root.Location.GetName]§! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
 secretly_convert_to_aztec_reformed_holy_site;Secretly Convert to Aztec;;;;;;;;;;X
-secretly_convert_to_aztec_reformed_holy_site_desc;The �YAztec�! pilgrims that flock to the holy site in �Y[Root.Location.GetName]�! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
+secretly_convert_to_aztec_reformed_holy_site_desc;The §YAztec§! pilgrims that flock to the holy site in §Y[Root.Location.GetName]§! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
 secretly_convert_to_zun_pagan_holy_site;Secretly Convert to Zun;;;;;;;;;;X
-secretly_convert_to_zun_pagan_holy_site_desc;The �YZun�! pilgrims that flock to the holy site in �Y[Root.Location.GetName]�! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
+secretly_convert_to_zun_pagan_holy_site_desc;The §YZun§! pilgrims that flock to the holy site in §Y[Root.Location.GetName]§! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
 secretly_convert_to_zun_pagan_reformed_holy_site;Secretly Convert to Zun;;;;;;;;;;X
-secretly_convert_to_zun_pagan_reformed_holy_site_desc;The �YZun�! pilgrims that flock to the holy site in �Y[Root.Location.GetName]�! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
+secretly_convert_to_zun_pagan_reformed_holy_site_desc;The §YZun§! pilgrims that flock to the holy site in §Y[Root.Location.GetName]§! impress me with the depth and passion of their faith. I am tempted to convert in secrecy...;;;;;;;;;;X
 RULE_SECRET_CULTS;Secret Religious Cults;;;;;;;;;;X
 RULE_SECRET_CULTS_DEFAULT_DESC;Secret Religious Cults can be founded.;;;;;;;;;;X
 RULE_SECRET_CULTS_NONE_DESC;Secret Religious Cults can not be founded.;;;;;;;;;;X
 EVTOPTC20270;I will NEVER embrace your vile heresy... publicly.;;;;;;;;;;X
 EVTOPTD_SOA_4000;Intriguing... I should talk to the locals.;;;;;;;;;;X
-DECLARE_WAR_INTERACTION_SHORT_DESC;Declare war on �Y[Recipient.GetBestName]�!;;;;;;;;;;X
-ASK_TO_DECLARE_WAR_INTERACTION_SHORT_DESC;Declare war on �Y[Recipient.GetBestName]�!;;;;;;;;;;X
+DECLARE_WAR_INTERACTION_SHORT_DESC;Declare war on §Y[Recipient.GetBestName]§!;;;;;;;;;;X
+ASK_TO_DECLARE_WAR_INTERACTION_SHORT_DESC;Declare war on §Y[Recipient.GetBestName]§!;;;;;;;;;;X
 ASK_REALM_PEACE_INTERACTION_SHORT_DESC;Ask for Realm Peace;;;;;;;;;;X
-REVOKE_TITLE_INTERACTION_SHORT_DESC;Revoke �Y[ThirdPartyTitle.GetFullName]�! from �Y[Recipient.GetTitledFirstName]�!;;;;;;;;;;X
-GRANT_VICE_ROYALTY_INTERACTION_SHORT_DESC;Grant Viceroyalty �Y[ThirdPartyTitle.GetFullName]�! to �Y[Recipient.GetTitledFirstName]�!;;;;;;;;;;X
+REVOKE_TITLE_INTERACTION_SHORT_DESC;Revoke §Y[ThirdPartyTitle.GetFullName]§! from §Y[Recipient.GetTitledFirstName]§!;;;;;;;;;;X
+GRANT_VICE_ROYALTY_INTERACTION_SHORT_DESC;Grant Viceroyalty §Y[ThirdPartyTitle.GetFullName]§! to §Y[Recipient.GetTitledFirstName]§!;;;;;;;;;;X
